@@ -1,0 +1,11 @@
+E:\Works\Programming\CS\LeetCode\prob_1\obj\Debug\netcoreapp3.1\prob_1.csprojAssemblyReference.cache
+E:\Works\Programming\CS\LeetCode\prob_1\obj\Debug\netcoreapp3.1\prob_1.AssemblyInfoInputs.cache
+E:\Works\Programming\CS\LeetCode\prob_1\obj\Debug\netcoreapp3.1\prob_1.AssemblyInfo.cs
+E:\Works\Programming\CS\LeetCode\prob_1\bin\Debug\netcoreapp3.1\prob_1.exe
+E:\Works\Programming\CS\LeetCode\prob_1\bin\Debug\netcoreapp3.1\prob_1.deps.json
+E:\Works\Programming\CS\LeetCode\prob_1\bin\Debug\netcoreapp3.1\prob_1.runtimeconfig.json
+E:\Works\Programming\CS\LeetCode\prob_1\bin\Debug\netcoreapp3.1\prob_1.runtimeconfig.dev.json
+E:\Works\Programming\CS\LeetCode\prob_1\bin\Debug\netcoreapp3.1\prob_1.dll
+E:\Works\Programming\CS\LeetCode\prob_1\bin\Debug\netcoreapp3.1\prob_1.pdb
+E:\Works\Programming\CS\LeetCode\prob_1\obj\Debug\netcoreapp3.1\prob_1.dll
+E:\Works\Programming\CS\LeetCode\prob_1\obj\Debug\netcoreapp3.1\prob_1.pdb

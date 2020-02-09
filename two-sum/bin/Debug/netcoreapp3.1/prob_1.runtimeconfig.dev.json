@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\THUNDER\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\THUNDER\\.nuget\\packages"
+    ]
+  }
+}

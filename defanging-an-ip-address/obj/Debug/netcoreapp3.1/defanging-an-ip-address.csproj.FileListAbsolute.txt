@@ -1,0 +1,11 @@
+E:\Works\Programming\CS\LeetCode\defanging-an-ip-address\bin\Debug\netcoreapp3.1\defanging-an-ip-address.exe
+E:\Works\Programming\CS\LeetCode\defanging-an-ip-address\bin\Debug\netcoreapp3.1\defanging-an-ip-address.deps.json
+E:\Works\Programming\CS\LeetCode\defanging-an-ip-address\bin\Debug\netcoreapp3.1\defanging-an-ip-address.runtimeconfig.json
+E:\Works\Programming\CS\LeetCode\defanging-an-ip-address\bin\Debug\netcoreapp3.1\defanging-an-ip-address.runtimeconfig.dev.json
+E:\Works\Programming\CS\LeetCode\defanging-an-ip-address\bin\Debug\netcoreapp3.1\defanging-an-ip-address.dll
+E:\Works\Programming\CS\LeetCode\defanging-an-ip-address\bin\Debug\netcoreapp3.1\defanging-an-ip-address.pdb
+E:\Works\Programming\CS\LeetCode\defanging-an-ip-address\obj\Debug\netcoreapp3.1\defanging-an-ip-address.csprojAssemblyReference.cache
+E:\Works\Programming\CS\LeetCode\defanging-an-ip-address\obj\Debug\netcoreapp3.1\defanging-an-ip-address.AssemblyInfoInputs.cache
+E:\Works\Programming\CS\LeetCode\defanging-an-ip-address\obj\Debug\netcoreapp3.1\defanging-an-ip-address.AssemblyInfo.cs
+E:\Works\Programming\CS\LeetCode\defanging-an-ip-address\obj\Debug\netcoreapp3.1\defanging-an-ip-address.dll
+E:\Works\Programming\CS\LeetCode\defanging-an-ip-address\obj\Debug\netcoreapp3.1\defanging-an-ip-address.pdb

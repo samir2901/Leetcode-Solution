@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "jewels-and-stones/1.0.0": {
+        "runtime": {
+          "jewels-and-stones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jewels-and-stones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

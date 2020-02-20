@@ -1,0 +1,11 @@
+E:\Works\Programming\LeetCode\jewels-and-stones\bin\Debug\netcoreapp3.1\jewels-and-stones.exe
+E:\Works\Programming\LeetCode\jewels-and-stones\bin\Debug\netcoreapp3.1\jewels-and-stones.deps.json
+E:\Works\Programming\LeetCode\jewels-and-stones\bin\Debug\netcoreapp3.1\jewels-and-stones.runtimeconfig.json
+E:\Works\Programming\LeetCode\jewels-and-stones\bin\Debug\netcoreapp3.1\jewels-and-stones.runtimeconfig.dev.json
+E:\Works\Programming\LeetCode\jewels-and-stones\bin\Debug\netcoreapp3.1\jewels-and-stones.dll
+E:\Works\Programming\LeetCode\jewels-and-stones\bin\Debug\netcoreapp3.1\jewels-and-stones.pdb
+E:\Works\Programming\LeetCode\jewels-and-stones\obj\Debug\netcoreapp3.1\jewels-and-stones.csprojAssemblyReference.cache
+E:\Works\Programming\LeetCode\jewels-and-stones\obj\Debug\netcoreapp3.1\jewels-and-stones.AssemblyInfoInputs.cache
+E:\Works\Programming\LeetCode\jewels-and-stones\obj\Debug\netcoreapp3.1\jewels-and-stones.AssemblyInfo.cs
+E:\Works\Programming\LeetCode\jewels-and-stones\obj\Debug\netcoreapp3.1\jewels-and-stones.dll
+E:\Works\Programming\LeetCode\jewels-and-stones\obj\Debug\netcoreapp3.1\jewels-and-stones.pdb

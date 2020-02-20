@@ -1,0 +1,11 @@
+E:\Works\Programming\LeetCode\find-numbers-with-even-number-of-digits\obj\Debug\netcoreapp3.1\find-numbers-with-even-number-of-digits.csprojAssemblyReference.cache
+E:\Works\Programming\LeetCode\find-numbers-with-even-number-of-digits\obj\Debug\netcoreapp3.1\find-numbers-with-even-number-of-digits.AssemblyInfoInputs.cache
+E:\Works\Programming\LeetCode\find-numbers-with-even-number-of-digits\obj\Debug\netcoreapp3.1\find-numbers-with-even-number-of-digits.AssemblyInfo.cs
+E:\Works\Programming\LeetCode\find-numbers-with-even-number-of-digits\bin\Debug\netcoreapp3.1\find-numbers-with-even-number-of-digits.exe
+E:\Works\Programming\LeetCode\find-numbers-with-even-number-of-digits\bin\Debug\netcoreapp3.1\find-numbers-with-even-number-of-digits.deps.json
+E:\Works\Programming\LeetCode\find-numbers-with-even-number-of-digits\bin\Debug\netcoreapp3.1\find-numbers-with-even-number-of-digits.runtimeconfig.json
+E:\Works\Programming\LeetCode\find-numbers-with-even-number-of-digits\bin\Debug\netcoreapp3.1\find-numbers-with-even-number-of-digits.runtimeconfig.dev.json
+E:\Works\Programming\LeetCode\find-numbers-with-even-number-of-digits\bin\Debug\netcoreapp3.1\find-numbers-with-even-number-of-digits.dll
+E:\Works\Programming\LeetCode\find-numbers-with-even-number-of-digits\bin\Debug\netcoreapp3.1\find-numbers-with-even-number-of-digits.pdb
+E:\Works\Programming\LeetCode\find-numbers-with-even-number-of-digits\obj\Debug\netcoreapp3.1\find-numbers-with-even-number-of-digits.dll
+E:\Works\Programming\LeetCode\find-numbers-with-even-number-of-digits\obj\Debug\netcoreapp3.1\find-numbers-with-even-number-of-digits.pdb
